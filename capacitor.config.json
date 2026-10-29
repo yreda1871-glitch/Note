@@ -1,0 +1,8 @@
+{
+  "appId": "com.mozakera.app",
+  "appName": "مذكرتي",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
